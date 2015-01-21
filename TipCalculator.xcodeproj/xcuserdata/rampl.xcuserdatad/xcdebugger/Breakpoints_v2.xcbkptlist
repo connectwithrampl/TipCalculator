@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/ViewController.swift"
+            timestampString = "441530012.261666"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/ViewController.swift"
+            timestampString = "441528017.635992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.totalTextField.getter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/rampl/Documents/iOS%20apps/examples/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "441529320.065763"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.totalTextField.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/rampl/Documents/iOS%20apps/examples/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "441529320.066227"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.init (TipCalculator.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; TipCalculator.ViewController"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/rampl/Documents/iOS%20apps/examples/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "441529320.066475"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.init (TipCalculator.ViewController.Type)() -&gt; TipCalculator.ViewController"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/rampl/Documents/iOS%20apps/examples/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "441529320.066666"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.init (TipCalculator.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; TipCalculator.ViewController"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/rampl/Documents/iOS%20apps/examples/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "441529320.066782"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/ViewController.swift"
+            timestampString = "441530012.261666"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "taxPercentageChanged(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
